@@ -20,3 +20,4 @@ for i in range(1, n):
     Sum += int(sys.argv[i])
      
 print("\n\nResult:", Sum)
+print("trying out the fork function")
